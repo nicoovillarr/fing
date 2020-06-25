@@ -1,0 +1,8 @@
+Se creó la secuencia
+Se creó la secuencia
+Agregado en posición 1
+Agregado en posición 1
+Creado: 
+tope: 2; Valores: 10 20 
+Creado: 
+tope: 2; Valores: 10 20 

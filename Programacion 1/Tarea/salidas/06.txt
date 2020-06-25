@@ -1,0 +1,6 @@
+Se creó la secuencia
+Agregado en posición 1
+Se creó la secuencia
+Agregado en posición 1
+Son iguales
+Son iguales

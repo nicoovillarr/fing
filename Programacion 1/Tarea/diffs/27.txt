@@ -1,0 +1,10 @@
+5c5
+< Fallo
+---
+> Agregado en posición 2
+7,8c7,8
+< Fallo
+< Fallo
+---
+> Agregado en posición 3
+> Agregado en posición 4

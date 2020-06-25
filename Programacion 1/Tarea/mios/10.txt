@@ -1,0 +1,26 @@
+Se creó la secuencia
+Se creó la secuencia
+Agregado en posición 1
+Agregado en posición 1
+Agregado en posición 3
+Agregado en posición 4
+Agregado en posición 3
+Agregado en posición 1
+Agregado en posición 7
+Agregado en posición 8
+Agregado en posición 7
+Agregado en posición 5
+Agregado en posición 1
+Agregado en posición 1
+Agregado en posición 3
+Agregado en posición 2
+Agregado en posición 3
+Agregado en posición 5
+Agregado en posición 2
+Agregado en posición 7
+Agregado en posición 8
+NO son iguales
+NO son iguales
+Agregado en posición 10
+Son iguales
+Son iguales

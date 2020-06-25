@@ -1,0 +1,13 @@
+4c4,5
+< Fallo
+---
+> Creado: 
+> tope: 2; Valores: 10 20 
+8,9c9,12
+< Fallo
+< Fallo
+---
+> Creado: 
+> tope: 2; Valores: 10 20 
+> Creado: 
+> tope: 2; Valores: 10 20 

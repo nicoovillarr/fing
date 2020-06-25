@@ -1,0 +1,7 @@
+Se creó la secuencia
+Agregado en posición 1
+Fallo
+Se creó la secuencia
+Agregado en posición 1
+Fallo
+Fallo

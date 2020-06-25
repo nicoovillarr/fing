@@ -1,0 +1,4 @@
+*.code-workspace
+*.o
+*.ds_store
+*.ignore

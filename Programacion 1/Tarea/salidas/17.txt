@@ -1,0 +1,19 @@
+Se creó la secuencia
+Agregado en posición 1
+Agregado en posición 2
+Agregado en posición 3
+Agregado en posición 4
+Agregado en posición 5
+Se creó la secuencia
+Agregado en posición 1
+Agregado en posición 2
+Agregado en posición 3
+Agregado en posición 4
+Agregado en posición 5
+Agregado en posición 6
+Agregado en posición 7
+Agregado en posición 8
+Creado: 
+tope: 10; Valores: 10 15 20 25 30 35 40 45 50 55 
+Creado: 
+tope: 10; Valores: 10 15 20 25 30 35 40 45 50 55 

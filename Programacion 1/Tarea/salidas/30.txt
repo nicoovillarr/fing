@@ -1,0 +1,30 @@
+Se creó la secuencia
+Agregado en posición 1
+Agregado en posición 2
+Agregado en posición 3
+Agregado en posición 4
+Agregado en posición 5
+Agregado en posición 1
+Agregado en posición 2
+Agregado en posición 3
+Agregado en posición 4
+Agregado en posición 5
+Agregado en posición 1
+Agregado en posición 2
+Agregado en posición 3
+Agregado en posición 4
+Agregado en posición 5
+Agregado en posición 6
+Se creó la colección
+Se agregó la secuencia 1 en la posición 1
+Se agregó la secuencia 2 en la posición 2
+Se agregó la secuencia 3 en la posición 3
+Agregado en posición 4
+Agregado en posición 5
+Agregado en posición 6
+Agregado en posición 7
+Agregado en posición 8
+Agregado en posición 9
+Agregado en posición 10
+Agregado en posición 11
+Agregado en posición 12

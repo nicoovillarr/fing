@@ -1,0 +1,10 @@
+5c5
+< Se agregó la secuencia 2 en la posición 1
+---
+> Se agregó la secuencia 2 en la posición 2
+8,9c8,9
+< Se agregó la secuencia 1 en la posición 1
+< Se agregó la secuencia 2 en la posición 2
+---
+> Se agregó la secuencia 1 en la posición 3
+> Se agregó la secuencia 2 en la posición 4

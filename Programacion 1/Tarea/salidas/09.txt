@@ -1,0 +1,13 @@
+Se creó la secuencia
+Agregado en posición 1
+Agregado en posición 2
+Agregado en posición 3
+Se creó la secuencia
+Agregado en posición 1
+Agregado en posición 2
+NO son iguales
+NO son iguales
+Agregado en posición 1
+Agregado en posición 4
+NO son iguales
+NO son iguales

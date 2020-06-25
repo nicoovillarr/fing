@@ -1,0 +1,9 @@
+Se creó la secuencia
+Agregado en posición 1
+Se creó la colección
+Se agregó la secuencia 1 en la posición 1
+Fallo
+Todas son iguales
+Fallo
+Fallo
+Todas son iguales

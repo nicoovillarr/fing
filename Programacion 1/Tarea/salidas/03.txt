@@ -1,0 +1,10 @@
+Se creó la secuencia
+Agregado en posición 1
+Agregado en posición 1
+Agregado en posición 3
+Agregado en posición 3
+Agregado en posición 1
+Agregado en posición 2
+Fallo
+Fallo
+Fallo

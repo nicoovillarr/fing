@@ -1,0 +1,20 @@
+22,30c22,30
+< Fallo
+< Fallo
+< Fallo
+< Fallo
+< Fallo
+< Fallo
+< Fallo
+< Fallo
+< Fallo
+---
+> Agregado en posición 4
+> Agregado en posición 5
+> Agregado en posición 6
+> Agregado en posición 7
+> Agregado en posición 8
+> Agregado en posición 9
+> Agregado en posición 10
+> Agregado en posición 11
+> Agregado en posición 12

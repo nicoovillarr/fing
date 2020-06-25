@@ -1,0 +1,9 @@
+Se creó la colección
+Se creó la secuencia
+Se agregó la secuencia 1 en la posición 1
+Se creó la secuencia
+Se agregó la secuencia 2 en la posición 2
+Agregado en posición 1
+Agregado en posición 1
+Se agregó la secuencia 1 en la posición 3
+Se agregó la secuencia 2 en la posición 4
